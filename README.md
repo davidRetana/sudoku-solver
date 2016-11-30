@@ -1,9 +1,7 @@
 # sudoku-solver
 Sudoku solver written in Haskell
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% RESOLUTOR DE SUDOKUS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ RESOLUTOR DE SUDOKUS
 
 PREVIO:
 	Para poder ejecutar codigo Haskell debemos tener instalado en nuestro
