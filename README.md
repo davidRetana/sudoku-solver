@@ -17,7 +17,7 @@ PREVIO:
 	CENTOS => sudo yum install ghc6
 
 	UBUNTU => sudo apt-get install hugs
-	CENTOS => sudo tum install hugs
+	CENTOS => sudo yum install hugs
 
 	Debemos tener los archivos main.hs y PracticaSudoku.hs en la misma carpeta.
 	Los archivos de texto que contienen los sudokus a resolver deben estar 
